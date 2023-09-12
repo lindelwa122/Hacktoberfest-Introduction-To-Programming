@@ -1,4 +1,4 @@
-# Hacktoberfest: Introduction To Programming
+<img src="assets/images/hacktoberfest-1.png" alt="Logo" style="width: 100%">
 
 ## How to participate
 
