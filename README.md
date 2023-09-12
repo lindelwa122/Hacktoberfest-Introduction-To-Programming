@@ -8,6 +8,12 @@ Most beginners make the mistake of thinking programming is about languages. They
 
 Here, we are going to teach you the most important skill, problem-solving, with hands-on practice exercises and if you complete just 4 exercises you will get a digital reward from Digital Ocean. Read more about rewards [here](https://hacktoberfest.com/).
 
+## Who can participate?
+
+* Anyone who has never written a line of code before but is interested in programming or problem-solving.
+* Anyone who considers himself/herself a beginner.
+* Anyone who wants to participate in Hacktoberfest by contributing to a low-code project.
+
 ## How to participate
 
 *Tip: To see where to click, look at the blue circles or pointer cursor*
