@@ -1,5 +1,13 @@
 <img src="assets/images/hacktoberfest-1.png" alt="Logo" style="width: 100%">
 
+#### Learning programming through problem-solving.
+
+***What is programming and what do programmers do?*** Programming is the process of telling a computer how to solve a certain problem. Programming is all about problem-solving and programmers spend most of their time solving problems.
+
+Most beginners make the mistake of thinking programming is about languages. They spend most of their time struggling with what language to pick. But the truth is languages are just tools and once you learn one it is easy to learn another.
+
+Here, we are going to teach you the most important skill, problem-solving, with hands-on practice exercises and if you complete just 4 exercises you will get a digital reward from Digital Ocean. Read more about rewards [here](https://hacktoberfest.com/).
+
 ## How to participate
 
 *Tip: To see where to click, look at the blue circles or pointer cursor*
