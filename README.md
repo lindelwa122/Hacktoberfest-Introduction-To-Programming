@@ -91,3 +91,87 @@ Here, we are going to teach you the most important skill, problem-solving, with 
 
     *Tip: Please note that you may receive a review on your pull request and you may be required to adjust something before your pull request can be merged.*
 
+## Section 1: Understand the problem
+
+This is the first and the most important step of problem-solving. If you don't understand the problem very well you are going to have a hard time solving it.
+
+Start by googling any term you don't understand very well. Understand the output that is expected, know the inputs that you can use, and also be aware of the constraints and the edge cases.
+
+Learn to read the problem over and over again, you might have overlooked something important at first. Now, reword it in plain English until it makes sense, and use diagrams if that helps. You may want to explain the problem to someone (or to a [rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) to gain more clarity.
+
+Let's take a look at the following example. 
+
+**Problem:** You are presented with a collection of jobs, each defined by a start time, end time, weight, and set of interdependencies. These interdependencies specify that certain jobs cannot commence until others are completed. Your objective is to create a program that optimally schedules these jobs, maximizing total weight, all while adhering to these interdependencies.
+
+I know the problem seems complex at first, but let's try to understand it. First, there may be a few words we may want to know what they mean. We can use Google for that.
+
+*Tip: To easily find a definition of a word, google '**define [word]**'*
+
+Definition of words we don't fully understand
+
+* **Weight:** weight, in this case, means importance. This means each job is assigned a value showing how important it is.
+* **Interdependencies:** means one thing needs another to happen. In the context of the problem, it means a job cannot happen without its _interdependencies_ or other jobs.
+
+Let's try to reword it:
+
+```markdown
+Write a program that schedules the most important jobs while ensuring that there are no clashes.
+```
+
+I think the sentence sounds clear enough that we can all understand what is required. But, essential information seems to be missing. That's where `input`, `constraints`, and `output` come in. We need to define these values to complete the question.
+
+```markdown
+
+input: 
+    - We get a collection of jobs, all with 5 parameters:
+    - Each job with start time, end time, weight, and interdependencies
+
+example:
+    - Job 1
+    - Start time: 1
+    - End time: 3,
+    - Weight: 5,
+    - Interdependencies: Job 3
+
+interprentation: 
+    - job 1 starts at 1 and ends at 3. 
+    - job 1 importance level is 5
+    - job 1 cannot happen without job 3
+
+output:
+    - job 3, job 2, job 3
+    - the output must be a schedule of jobs 
+
+constraints:
+    - jobs must not clash
+
+```
+
+Most problems you will be working on, there's usually an example and it shows you the inputs, the expected output, and the constraints. It's important to take the example given to you and define the *input*, *output*, and *constraints*.
+
+### Task
+
+Now, it's time for you to practice what you learned. In this section, you are only required to reword the problem into simple English (**do not solve it**). 
+
+```markdown
+
+Problem:
+
+Develop a program capable of unraveling the prime factorization of a given positive number.
+
+For example:
+
+Input: 36
+
+Output: [2, 2, 3, 3]
+
+The program should discern and exhibit the prime factors of the input integer as a list, 
+illuminating the fundamental mathematical structure that composes it.
+
+```
+
+Create a file name using your GitHub username and the `.txt` extension inside the `section-01` directory/folder. For, example the file name I created is `lindelwa122.txt`.
+
+Inside the file add your version of problem reworded. Do not add the question as it is or copy other collaborators. Check our rules collaboration rules [here](/CONTRIBUTION.md). Failure to comply with the rules will cause your PR (Pull Request) to be rejected.
+
+Refer to **How to contribute** section for guidance.
