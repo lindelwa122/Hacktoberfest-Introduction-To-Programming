@@ -219,3 +219,98 @@ Refer to **How to Contribute** section if you need some guidance.
 
 **Problem (technical):** Create a script that organizes files in a specified folder by sorting them into subfolders based on their file extensions. Divide your approach into small doable steps.
 
+## Section 3: Pen and Paper First
+
+Once you have divided your problem into small chunks. The next step is to solve the easiest sub-problem. Most beginners make the mistake of opening their computers and start writing code. Remember what was our definition of programming at the very start. We said, *'programming is the process of telling a computer how to solve a certain problem'*. What are you going to tell the computer if you haven't figured out how to solve the sub-problem that you are dealing with? *'I am going to figure it out along the way'*, you say to yourself. Well, that's a method for disaster.
+
+Before you open your code editor, start by writing the algorithm first. What's the step-by-step process you want the computer to follow to achieve a certain task? 
+
+For example, let's take one of the sub-problems we created for organizing our birthday party. ***Convince mom and dad to use our house as a venue***. Yes, let's try to write an algorithm or step-by-step process for convincing our parents:
+
+1. While my parents are not in a good mood I am must wait before proceeding to the next step
+2. Make hot chocolate and bring it to my parents
+3. Ask them about their day
+4. Remind them that my birthday is soon
+5. Share my excitement and let them know I have an idea
+6. Ask them to use our house to host the event
+7. While they express concerns:
+    * Politely listen to their worries
+    * Offer solutions one by one
+8. If they say yes:
+    * The job is done.
+9. If they complain about cleanliness:
+    * Promise my friends will help clean after the party
+10. If they complain about space:
+    * Say I will rearrange the furniture
+11. Or else:
+    * Ask my friend's parents
+
+Now, we have a plan for convincing our parents. And you must also create a plan before you start coding. Think about these questions. *What will it look like? What functionality will the interface have? Given the inputs, what are the steps necessary to return the desired output?*
+
+### Task
+
+For this section, you will have to take one of your sub-problems from section 3 or our birthday party example and write an algorithm to solve it. Remember, an algorithm is just a step-by-step process to achieve a certain task.
+
+Create a `txt` file with your GitHub username inside the `section-03` folder. For example, the file that I created is `lindelwa122.txt`.
+
+For those who will be working on technical problems, you may want to read the programming concepts below. And others feel free to skip to section 4.
+
+### Programming Concepts
+
+Here, I will explain what kind of questions should we ask ourselves when using some programming concepts in [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) and give you a template that you can use when writing pseudocode.
+
+#### Creating a variable
+
+Questions to ask?:
+* **Name:** What do we call this thing?
+* **Type:** What type of data does it contain?
+* **InitValue:** What is the initial value?
+
+Template:
+* Create a variable called [name] of type [type] that starts with [initValue].
+
+#### Output
+
+Questions to ask?:
+
+* **Message:** What text to write to the user?
+
+Template:
+* Output the [message].
+
+#### Input
+
+Questions to ask?:
+
+* **Variable:** Where will the answer from the user be stored?
+* **Message:** What question to ask to the user?
+
+Template:
+
+* Ask the user [message] and store the answer in [variable].
+
+#### While Loop
+
+Questions to ask?:
+
+* **Sentry:** What variable will control the loop?
+* **Initialization code:** Code that initializes *sentry*.
+* **Condition:** Loop repeats if the condition is true.
+* **Change code:** Code to change sentry so *condition* can be triggered.
+
+Template:
+
+* Initialize [sentry] with [initialization code] then continue the loop as long as [condition] is true. Inside the loop, change [sentry] with [change code].
+
+#### For Loop
+
+Questions to ask?:
+
+* **Sentry:** What integer variable will control the loop?
+* **Start:** Integer value of *sentry* at the beginning.
+* **Finish:** Integer value of *sentry* at the end.
+* **Change:** Integer to add to *sentry* at each pass.
+
+Template:
+
+* Begin with [sentry] at [start] and add [change] to [sentry] on each pass until [sentry] is larger or equal to [finish].
