@@ -362,3 +362,17 @@ Follow these steps to complete the task:
 5. Convert your algorithms to actual code. Use any language of your choice and the extension of the file must be of the chosen language. For example, your file name can be `username.js` if you choose JavaScript.
 
 *Tip: `username` stands for your **own** GitHub username.*
+
+## Conclusion
+
+Thank you for taking the time to participate in this year's Hacktoberfest.  I hope you learned something that will help you in your career or life in general. If you have never programmed before I hope I inspired you to look into it.
+
+I would love to hear your experiences. Please add a file named `username.txt` inside `conclusion/` and tell me about your experiences while completing the exercises. Try to answer the following questions:
+
+* Have you programmed before?
+* Which was the hardest task?
+* Did you learn something new?
+* Did you have fun?
+* How can we improve?
+
+Thank you once more, please don't forget to star this repo so GitHub can show it to more people. 
