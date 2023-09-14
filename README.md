@@ -209,7 +209,9 @@ Now, we have 5 small doable sub-problems. We can start solving the easiest one.
 
 It's time for you to practice with what you learned. In this section, you are only required to divide the problem into small doable tasks. 
 
-Choose one of the following problems and create a `txt` file using your GitHub username inside `section-02`. Refer to **How to Contribute** section for more information.
+Choose **one** of the following problems and create a `txt` file using your GitHub username inside `section-02`. For example, the file name that I created is `lindelwa122.txt`.
+
+Refer to **How to Contribute** section if you need some guidance.
 
 **Problem (non-technical):** You want to start a small garden in your backyard to grow vegetables and herbs. Describe your approach to planning and planting this garden. Divide your approach into smaller steps or considerations, each contributing to the overall solution.
 
