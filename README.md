@@ -360,3 +360,5 @@ Follow these steps to complete the task:
 3. Create a file called `username-divide.txt`. Inside divide the problem into small chunks.
 4. Create a file called `username-algorithm.txt`. Inside write all the algorithms for your sub-problems.
 5. Convert your algorithms to actual code. Use any language of your choice and the extension of the file must be of the chosen language. For example, your file name can be `username.js` if you choose JavaScript.
+
+*Tip: `username` stands for your **own** GitHub username.*
