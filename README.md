@@ -363,6 +363,24 @@ Follow these steps to complete the task:
 
 *Tip: `username` stands for your **own** GitHub username.*
 
+## Section 6: Question it
+
+When you have completed solving your problem, most of the time you will get bugs or errors. You will have to modify your algorithms over and over again before it works. 
+
+*Tip: You can learn more about debugging [here](https://en.wikipedia.org/wiki/Debugging).*
+
+Even if your code works as desired it is important to ask yourself the following questions:
+
+* Is your code clean and human-readable?
+* Is it well structured?
+* Is it well-designed?
+* Can you improve something?
+* Can you come up with a better solution?
+
+These questions are all important to ask yourself after solving a problem, they will help you improve your problem-solving skills.
+
+**No task for this section.**
+
 ## Conclusion
 
 Thank you for taking the time to participate in this year's Hacktoberfest.  I hope you learned something that will help you in your career or life in general. If you have never programmed before I hope I inspired you to look into it.
