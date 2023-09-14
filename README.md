@@ -343,3 +343,20 @@ To complete this task you must utilize Google to find out how to do a certain th
 If you know programming, challenge yourself to complete the challenge in a language you are not familiar with. 
 
 Create a file using your GitHub username like before, you can use the `txt` extension or your preferred language extension. Create the file inside the `section-04` folder.
+
+
+## Section 5: Practice Makes Progress
+
+It's time to put into practice all that you have learned so far. Choose one of the following problems, if you are new to programming choose the one labeled **easy**.
+
+**Problem (Easy):** Write a program that takes a positive integer n and returns the sum of the squares of all positive integers smaller than n.
+
+**Problem:** Write a program that can *make change*. Your program should take two numbers as input, one is a monetary amount charged and the other is a monetary amount given. It should then return the number of each kind of bill and coin to give back as change for the difference between the amount given and the amount charged. The values assigned to the bills and coins can be based on the monetary system of any current or former government. Try to design your program so that it returns as few bills and coins as possible.
+
+Follow these steps to complete the task:
+
+1. Navigate to the `section-05` folder.
+2. Create a file called `username-reword.txt`. Inside rephrase the problem in your own words.
+3. Create a file called `username-divide.txt`. Inside divide the problem into small chunks.
+4. Create a file called `username-algorithm.txt`. Inside write all the algorithms for your sub-problems.
+5. Convert your algorithms to actual code. Use any language of your choice and the extension of the file must be of the chosen language. For example, your file name can be `username.js` if you choose JavaScript.
