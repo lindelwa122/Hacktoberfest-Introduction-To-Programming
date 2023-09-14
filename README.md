@@ -394,3 +394,12 @@ I would love to hear your experiences. Please add a file named `username.txt` in
 * How can we improve?
 
 Thank you once more, please don't forget to star this repo so GitHub can show it to more people. 
+
+## Credits 
+
+* The making of this repository was inspired by [The Odin Project](https://theodinproject.com) and this [video](https://www.youtube.com/watch?v=azcrPFhaY9k) by Coding Tech.
+* The task in section 4 is taken from [Andy Harris'](https://www.youtube.com/channel/UCIhnHoRkoJmkWwLz2jBpgNQ) talk at the IndyPy meeting on election night 2016. 
+* Some questions were taken from [Data Structures and Algorithms]() by Michael Goodrich.
+* The structure and section 6 are inspired by [How to Solve a Coding Problem: A step-by-step process](https://www.amazon.com/solve-coding-problem-step-step-ebook/dp/B0B8FYKKMP).
+* Some tasks were inspired by challenges on [CodeWars](https://www.codewars.com).
+* The [OpenAI](https://openai.com) language model, ChatGPT, was used to refine a few things.
