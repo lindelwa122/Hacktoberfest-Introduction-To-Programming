@@ -314,3 +314,30 @@ Here, I will explain what kind of questions should we ask ourselves when using s
 ***Template:***
 
 * Begin with [sentry] at [start] and add [change] to [sentry] on each pass until [sentry] is larger or equal to [finish].
+
+## Section 4: Introducing Code
+
+We have come this far without writing any code. But, I think it is time to introduce some programming languages and show you that once you have created an algorithm, converting it into code isn't that hard.
+
+### Task
+
+For this section, your task is to convert an algorithm to code using any programming language of your choice. Click [here](https://en.wikipedia.org/wiki/List_of_programming_languages) to see a list of options.
+
+Below we have a simple algorithm that **adds x and y and returns the answer to the user.**
+
+```python
+
+# create an integer variable for x
+# create an integer variable for y
+# ask the user "X: " and put answer in x
+# ask the user "Y: " and put answer in y
+# put x + y in sum
+# tell user "Answer is " sum
+
+```
+
+To complete this task you must utilize Google to find out how to do a certain thing in language [x]. For example, you can search `how to create an integer variable in Java`.
+
+If you know programming, challenge yourself to complete the challenge in a language you are not familiar with. 
+
+Create a file using your GitHub username like before, you can use the `txt` extension or your preferred language extension. Create the file inside the `section-04` folder.
