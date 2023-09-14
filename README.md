@@ -323,6 +323,8 @@ We have come this far without writing any code. But, I think it is time to intro
 
 For this section, your task is to convert an algorithm to code using any programming language of your choice. Click [here](https://en.wikipedia.org/wiki/List_of_programming_languages) to see a list of options.
 
+*Tip: If you decide to follow the above link, just hover over the language to know what it is about.*
+
 Below we have a simple algorithm that **adds x and y and returns the answer to the user.**
 
 ```python
