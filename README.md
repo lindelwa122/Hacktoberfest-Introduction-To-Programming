@@ -139,7 +139,7 @@ interprentation:
     - job 1 cannot happen without job 3
 
 output:
-    - job 3, job 2, job 3
+    - job 3, job 2, job 5
     - the output must be a schedule of jobs 
 
 constraints:
@@ -172,6 +172,48 @@ illuminating the fundamental mathematical structure that composes it.
 
 Create a file name using your GitHub username and the `.txt` extension inside the `section-01` directory/folder. For, example the file name I created is `lindelwa122.txt`.
 
-Inside the file add your version of problem reworded. Do not add the question as it is or copy other collaborators. Check our rules collaboration rules [here](/CONTRIBUTION.md). Failure to comply with the rules will cause your PR (Pull Request) to be rejected.
+Inside the file add your version of the problem reworded. Do not add the question as it is or copy other collaborators. Check our collaboration rules [here](/CONTRIBUTION.md). Failure to comply with the rules will cause your PR (Pull Request) to be rejected.
 
 Refer to **How to contribute** section for guidance.
+
+## Section 2: Divide and Conquer
+
+When you understand the problem, the next step is to take what seems to be an impossible problem to solve and divide it into small solvable sub-problems. 
+
+For example, let's say you had to organize your birthday party. At first, this seems like a hard task and you don't even know where to start but let's try to break it down into small doable tasks:
+
+* Convince mom and dad to use our house as a venue
+* Invite all the people in my contact list
+* Design a nice poster on Canva and post it on Facebook
+* Create a list of refreshments and go buy them
+* Organize with our neighbor, Joe, to get a nice birthday cake at a discount
+* Ask Aunt Beth to help with the decor
+
+You get the point, once we have divided the problem organising our birthday party doesn't seem that scary. We can now start with the easiest of our sub-problems. Let's take a look at another example:
+
+**Problem:** Write a program that reads a text file and counts the frequency of each word in the file. The program should then display the top N words with their frequencies, where N is a number provided by the user.
+
+*Feel free to reword the problem until it makes sense to you.*
+
+Now, let's try to break the problem into small doable sub-problems.
+
+* Prompt the user for the file name to read.
+* Read the text for the file.
+* Tokenize the text into words (we can use spaces and punctuations as separators).
+* Count the frequency of each word.
+* Display the top N words with their frequencies in descending order.
+
+Now, we have 5 small doable sub-problems. We can start solving the easiest one. 
+
+### Task
+
+It's time for you to practice with what you learned. In this section, you are only required to divide the problem into small doable tasks. 
+
+Choose one of the following problems and create a `txt` file using your GitHub username inside `section-02`. Refer to **How to Contribute** section for more information.
+
+**Problem (non-technical):** You want to start a small garden in your backyard to grow vegetables and herbs. Describe your approach to planning and planting this garden. Divide your approach into smaller steps or considerations, each contributing to the overall solution.
+
+**Problem (non-technical):** You want to undertake a home improvement project to renovate a room in your house, such as a bedroom or living room. Divide your approach into smaller steps.
+
+**Problem (technical):** Create a script that organizes files in a specified folder by sorting them into subfolders based on their file extensions. Divide your approach into small doable steps.
+
