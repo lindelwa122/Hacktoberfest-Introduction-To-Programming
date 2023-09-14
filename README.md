@@ -261,56 +261,56 @@ Here, I will explain what kind of questions should we ask ourselves when using s
 
 #### Creating a variable
 
-Questions to ask?:
+***Questions to ask?:***
 * **Name:** What do we call this thing?
 * **Type:** What type of data does it contain?
 * **InitValue:** What is the initial value?
 
-Template:
+***Template:***
 * Create a variable called [name] of type [type] that starts with [initValue].
 
 #### Output
 
-Questions to ask?:
+***Questions to ask?:***
 
 * **Message:** What text to write to the user?
 
-Template:
+***Template:***
 * Output the [message].
 
 #### Input
 
-Questions to ask?:
+***Questions to ask?:***
 
 * **Variable:** Where will the answer from the user be stored?
 * **Message:** What question to ask to the user?
 
-Template:
+***Template:***
 
 * Ask the user [message] and store the answer in [variable].
 
 #### While Loop
 
-Questions to ask?:
+***Questions to ask?:***
 
 * **Sentry:** What variable will control the loop?
 * **Initialization code:** Code that initializes *sentry*.
 * **Condition:** Loop repeats if the condition is true.
 * **Change code:** Code to change sentry so *condition* can be triggered.
 
-Template:
+***Template:***
 
 * Initialize [sentry] with [initialization code] then continue the loop as long as [condition] is true. Inside the loop, change [sentry] with [change code].
 
 #### For Loop
 
-Questions to ask?:
+***Questions to ask?:***
 
 * **Sentry:** What integer variable will control the loop?
 * **Start:** Integer value of *sentry* at the beginning.
 * **Finish:** Integer value of *sentry* at the end.
 * **Change:** Integer to add to *sentry* at each pass.
 
-Template:
+***Template:***
 
 * Begin with [sentry] at [start] and add [change] to [sentry] on each pass until [sentry] is larger or equal to [finish].
