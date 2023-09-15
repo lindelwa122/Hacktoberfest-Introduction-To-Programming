@@ -174,7 +174,7 @@ Create a file name using your GitHub username and the `.txt` extension inside th
 
 Inside the file add your version of the problem reworded. Do not add the question as it is or copy other collaborators. Check our collaboration rules [here](/CONTRIBUTION.md). Failure to comply with the rules will cause your PR (Pull Request) to be rejected.
 
-Refer to **How to contribute** section for guidance.
+Refer to [**How to contribute**](#how-to-participate) section for guidance.
 
 ## Section 2: Divide and Conquer
 
@@ -211,7 +211,7 @@ It's time for you to practice with what you learned. In this section, you are on
 
 Choose **one** of the following problems and create a `txt` file using your GitHub username inside `section-02`. For example, the file name that I created is `lindelwa122.txt`.
 
-Refer to **How to Contribute** section if you need some guidance.
+Refer to [**How to Contribute**](#how-to-participate) section if you need some guidance.
 
 **Problem (non-technical):** You want to start a small garden in your backyard to grow vegetables and herbs. Describe your approach to planning and planting this garden. Divide your approach into smaller steps or considerations, each contributing to the overall solution.
 
