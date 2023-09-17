@@ -172,7 +172,7 @@ illuminating the fundamental mathematical structure that composes it.
 
 Create a file name using your GitHub username and the `.txt` extension inside the `section-01` directory/folder. For, example the file name I created is `lindelwa122.txt`.
 
-Inside the file add your version of the problem reworded. Do not add the question as it is or copy other collaborators. Check our collaboration rules [here](/CONTRIBUTION.md). Failure to comply with the rules will cause your PR (Pull Request) to be rejected.
+Inside the file add your version of the problem reworded. Do not add the question as it is or copy other collaborators. Check our collaboration rules [here](/CONTRIBUTING.md). Failure to comply with the rules will cause your PR (Pull Request) to be rejected.
 
 Refer to [**How to contribute**](#how-to-participate) section for guidance.
 
