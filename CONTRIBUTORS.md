@@ -1,8 +1,7 @@
 # Contributors
 
-#### [Lindelwa](https://github.com/lindelwa122)
-- Place: Pretoria, Gautang, South Africa
-- Bio: JavaScript developer passionate about Open Source software,
-- Instagram: [q.codes__](https://www.instagram.com/q.codes__)
-
+#### [Emmanuel James](https://github.com/Deerah1234)
+- Place: Jimeta, Adamawa State, Nigeria
+- Bio: Software Engineer | open-source enthusiast
+- Twitter: [Emmanuel James](https://twitter.com/0xDeerah)
     
