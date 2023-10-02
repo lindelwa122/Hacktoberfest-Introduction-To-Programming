@@ -1,0 +1,1 @@
+Create a program to check wheather a number is armstrong number or not. A number is Armstrong if the sum of its own digits raised to the power number of digits gives the number itself. For example- 0, 1, 153, 370, 371, 407 are three-digit Armstrong numbers.
