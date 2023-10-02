@@ -1,0 +1,6 @@
+1. Request the user to input a path name that needs to be organized.
+2. Retrieve a list of all files within the provided path.
+3. Extract file extensions from each file.
+4. Create folders using the extracted file extensions as folder names.
+5. Move the files into their respective folders based on their file extensions.
+6. Notify the user with a success message indicating that the files have been successfully organized.
