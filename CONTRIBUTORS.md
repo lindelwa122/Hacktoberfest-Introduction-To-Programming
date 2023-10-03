@@ -14,6 +14,11 @@
 - fullstack Developer | Android Developer | UI/UX Designer
 - Twitter: [Chandrashekhar Mehta](https://twitter.com/Mehtachandrash1)
 
+#### [Claudia Souza](https://github.com/ClaudiaSouza1812)
+- Place: Coimbra, Coimbra, Portugal
+- Bio: self-taught, beginner software engineering student doing CS50x
+- LinkedIn: [Claudia Simone de Souza](www.linkedin.com/in/claudiasouza1812)
+
 #### [Vaibhav Jaiswal](https://github.com/Vaibhav871)
 - Place: Indore , Madhya Pradesh , India
 - Bio: Frontend Developer | MS PowerApps & PowerAutomate Intern | Fresher Student

@@ -1,0 +1,13 @@
+Code a program that says if it's number is even or odd.
+
+input: 
+  - a positive integer number;
+example:
+  - 10;
+interpretation:
+  - it is a positive valid number;
+output:
+  - even or odd;
+  - the output must be the number classification;
+constraints:
+  - the input must be a positive integer number;
