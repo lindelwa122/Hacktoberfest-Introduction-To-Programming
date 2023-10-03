@@ -13,8 +13,13 @@
 - Place: Mehshana,Gujarat,India
 - fullstack Developer | Android Developer | UI/UX Designer
 - Twitter: [Chandrashekhar Mehta](https://twitter.com/Mehtachandrash1)
-- 
+
 #### [Vaibhav Jaiswal](https://github.com/Vaibhav871)
 - Place: Indore , Madhya Pradesh , India
 - Bio: Frontend Developer | MS PowerApps & PowerAutomate Intern | Fresher Student
 - Twitter: [vaibhavjais19](https://twitter.com/vaibhavjais19?t=jC4jU88rGd4wn-L0uaC6YQ&s=09)
+
+#### [Muhammad Ahmad](https://github.com/MAhmad787)
+- Place: Lahore, Punjab, Pakistan
+- Bio: Frontend Developer | Programmer | Web Developer
+- Twitter: [Muhammad Ahmad](https://twitter.com/MAhmad_787)
