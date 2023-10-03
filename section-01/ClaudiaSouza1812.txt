@@ -1,1 +1,1 @@
-Given a number, code a program that says if it's number is even or odd.
+Code a program that says if it's number is even or odd.
