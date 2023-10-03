@@ -1,0 +1,12 @@
+1 - display a messagem explaining the rules for the user;
+2 - display a message with the acceptable extensions;
+3 - display a message requesting user for the file name followed by its extension;
+4 - check if the input is valid by verifying if it has a word followed by a dot, followed by the acceptable extensions;
+5 - if the input is not correct, show a message informing it;
+6 - if the input is correct, create a main folder;
+7 - take the extension as input to make a nem subfolder;
+8 - if the subfolder alredy exists, just store the file in it;
+9 - display a messagem saying that the file was sotored with success;
+10 - ask the user if it has more files to store;
+11 - if its so, repeat step 3 until step 8;
+12 - if its not, print the files names stored and end the program;
