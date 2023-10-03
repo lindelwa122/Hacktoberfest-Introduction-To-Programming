@@ -13,3 +13,8 @@
 - Place: Mehshana,Gujarat,India
 - fullstack Developer | Android Developer | UI/UX Designer
 - Twitter: [Chandrashekhar Mehta](https://twitter.com/Mehtachandrash1)
+
+#### [Muhammad Ahmad](https://github.com/MAhmad787)
+- Place: Lahore, Punjab, Pakistan
+- Bio: Frontend Developer | Programmer | Web Developer
+- Twitter: [Muhammad Ahmad](https://twitter.com/MAhmad_787)
