@@ -1,0 +1,20 @@
+Code a program where a set of jobs need to be ordered and scheduled by its corelated importance without any clashes.
+
+input:
+  - a set of jobs, each one of them with 5 parameters;
+  - parameters: start time; end time; weight (importance); interdependencies;
+example:
+  - job: 2;
+  - start time: 2;
+  - end time: 4;
+  - weight: 4;
+  - interdependencies: job 5;
+interpretation:
+  - job 2 starts at 2 and ends at 4;
+  - job 2 importance level is 4;
+  - job 2 cannot happen without job 5;
+output:
+  - job 3, job 4, job 5;
+  - the output must be a schedule of jobs;
+constraints:
+  - jobs must not clash;
