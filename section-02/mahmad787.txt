@@ -1,0 +1,6 @@
+1. Ask the user to give you the folder path in which files need to be organized.
+2. If the files inside that folder are not supported then an error displays the name of supported files.
+3. Else run the function that retrieves the extensions from the files (using dot as separator)
+4. Create the folders with respect to the extensions you extracted.
+5. Move the files into their specified folders on the basis of their extensions.
+6. Display the message to the user if the files are successfully stored or not.
