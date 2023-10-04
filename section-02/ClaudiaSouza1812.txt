@@ -1,0 +1,18 @@
+1 - create the list with the acceptables extensions;
+2 - create a list with the acceptables characters;
+3 - if isn't created, create a main folder;
+4 - display a message explaining the rules for the user;
+5 - display a message requesting user for the file name followed by its extension;
+6 - check if the input is valid by verifying if it has a word followed by a dot, followed by the acceptable extensions;
+7 - if the input is not correct, show a message informing it;
+  * return to step 4;
+8 - if the input is correct, take the extension as input to make a nem subfolder;
+9 - if the subfolder alredy exists, store the file in it;
+10 - display a messagem saying that the file was stored with success;
+  * if the file already exist, display a message informing it, return to step 4;
+  * if dosn't, continue;
+11 - dysplay a message asking the user if there's more files to store;
+  * if user type [y], return to step 4;
+  * if user type [n], continue;
+12 - display a message and print the name of the files stored;
+13 - end the program;
