@@ -1,0 +1,4 @@
+Display a message to the user asking for the path name that needs to be organized.
+Wait for the user's input.
+Validate the input to ensure it represents a valid file path.
+If the input is valid, proceed to the next step. If not, display an error message and return to step 1.
