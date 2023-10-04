@@ -1,0 +1,74 @@
+Subtask 1 - 6 - check if the input is valid by verifying if it has a word followed by a dot, followed by the acceptable extensions;
+
+1 - Creating a variable
+Questions to ask?:
+
+- Name: What do we call this variable?
+msg01;
+- Type: What type of data does it contain?
+string (text);
+- InitValue: What is the initial value?
+"Enter a file name, followed by a dot and one of the  extensions that will show to you. The file name cant have spaces and signals, except by the dot, numbers are allowed."
+- Template: 
+Create a variable called [msg01] of type [string] that starts with [initValue].
+------------
+
+2 - Output
+Questions to ask?:
+
+- Message: What text to write to the user?
+"Enter a file name, followed by a dot and one of the  extensions that will show to you. The file name can't have spaces and any other signals, except by the dot, numbers are allowed."
+- Template:
+Output the [msg01].
+-----------
+
+3 - Input
+Questions to ask?:
+
+- Variable: Where will the answer from the user be stored?
+asw01
+- Type: What type of data should it contain or what should it be changed to?
+string (text);
+- InitValue: What is the initial value?
+text;
+- Message: what question to ask the user?
+msg02: "Whats the file name and its extension? Remember to enter a file name followed by a dot and one of the extensions that were shown to you."
+- Template:
+Ask the user [msg02] and store the answer in [asw01].
+-----------
+
+4 - While Loop
+Questions to ask?:
+
+- Sentry: What variable will control the loop?
+asw01;
+- Type: What type of data should it be?
+string (text);
+- Initialization code: Code that initializes sentry.
+input();
+- Condition: Does the loop repeat if the condition is true?
+no;
+- Change code: Code to change sentry so condition can be triggered?
+if;
+
+-Template:
+ex: Initialize [sentry] with [initialization code] then continue the loop as long as [condition] is true. Inside the loop, change [sentry] with [change code].
+
+Initialize [asw01] with [input()] then continue the loop as long as [while] is true. Inside the loop, change [asw01] with [if].
+
+5 - For Loop
+Questions to ask?:
+
+- Sentry: What integer variable will control the loop?
+c;
+- Start: Integer value of sentry at the beginning.
+0;
+- Finish: Integer value of sentry at the end.
+lenght of asw01;
+- Change: Integer to add to sentry at each pass.
+1;
+- Template:
+
+ex: Begin with [sentry] at [start] and add [change] to [sentry] on each pass until [sentry] is larger or equal to [finish].
+
+Begin with [c] at [0] and add [1] to [c] on each pass until [c] is larger or equal to [lenght of asw01].
