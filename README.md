@@ -249,7 +249,7 @@ Now, we have a plan for convincing our parents. And you must also create a plan 
 
 ### Task
 
-For this section, you will have to take one of your sub-problems from section 3 or our birthday party example and write an algorithm to solve it. Remember, an algorithm is just a step-by-step process to achieve a certain task.
+For this section, you will have to take one of your sub-problems from section 2 or our birthday party example and write an algorithm to solve it. Remember, an algorithm is just a step-by-step process to achieve a certain task.
 
 Create a `txt` file with your GitHub username inside the `section-03` folder. For example, the file that I created is `lindelwa122.txt`.
 
