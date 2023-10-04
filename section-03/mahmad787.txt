@@ -1,0 +1,5 @@
+1. Create a variable that will store the path of the folder given by user.
+2. Ask the user for the path of folder that he/she want to organize.
+3. Run the validation function on the input given by user.
+4. If the input given by user is not valid display an error message.
+5. Else proceed the program to the next step.
