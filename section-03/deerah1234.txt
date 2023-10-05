@@ -1,0 +1,89 @@
+Subtask 1 - 6 - Request the user to input a path name that needs to be organized;
+
+============================================================================================
+
+1 - Creating a variable
+
+Questions to ask?:
+
+- Name: What do we call this variable?
+        -> pathName;
+- Type: What type of data does it contain?
+        -> string;
+- InitValue: What is the initial value?
+       -> null;
+- Template: 
+       -> Create a variable called [pathName] of type [string] that starts with [initValue].
+
+============================================================================================
+
+2 - Output
+
+Questions to ask?:
+
+- Message: What text to write to the user?
+		-> "Enter path name (no space and no quotes): "
+- Template:
+     		-> Output the [pathName].
+
+============================================================================================
+
+3 - Input
+
+Questions to ask?:
+
+- Variable: Where will the answer from the user be stored?
+		-> pathName
+- Type: What type of data should it contain or what should it be changed to?
+		-> string;
+- InitValue: What is the initial value?
+		-> null;
+- Message: what question to ask the user?
+		-> "Enter path name (no space and no quotes): "
+- Template:
+		-> Ask the user [pathName] and store the answer in [pathName].
+
+============================================================================================
+
+4 - While Loop
+
+Questions to ask?:
+
+- Sentry: What variable will control the loop?
+		-> pathName;
+- Type: What type of data should it be?
+	   	-> string (text);
+- Initialization code: Code that initializes sentry.
+		-> input();
+- Condition: Does the loop repeat if the condition is true?
+		-> no;
+- Change code: Code to change sentry so condition can be triggered?
+		-> if;
+============================================================================================
+
+- Template:
+ex: Initialize [sentry] with [initialization code] then continue the loop as long as [condition] is true. Inside the loop, change [sentry] with [change code].
+
+Initialize [pathName] with [input()] then continue the loop as long as [while] is true. Inside the loop, change [pathName] with [if].
+
+============================================================================================
+
+5 - For Loop
+
+Questions to ask?:
+
+- Sentry: What integer variable will control the loop?
+		-> i;
+- Start: Integer value of sentry at the beginning.
+		-> 0;
+- Finish: Integer value of sentry at the end.
+		-> length of pathName;
+- Change: Integer to add to sentry at each pass.
+		-> 1;
+============================================================================================
+
+- Template:
+
+ex: Begin with [sentry] at [start] and add [change] to [sentry] on each pass until [sentry] is larger or equal to [finish].
+
+Begin with [i] at [0] and add [1] to [i] on each pass until [i] is larger or equal to [length of pathName].
