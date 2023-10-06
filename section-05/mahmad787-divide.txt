@@ -1,0 +1,23 @@
+1. Creating Variables
+		Declare both of the variables at the top of the code
+  
+2. Prompting
+		Use the input function in your specific programming language to ask the user the given amount and the charged amount
+    Store them in their respective variables 
+
+3. Validating the user input
+		Ensure that your program only accepts non-negative integers
+		If the user’s input is valid move to the next step
+		Else display an error message and exit the program
+	
+4. Calculate change
+		Subtract the charged amount from the total given amount.
+
+5. Determine the bills and coins
+		Run the function that will calculate the first bill in the change amount
+		Suppose the first bill (currency note) is 10 as x
+		Run the loop that will subtract x amount from the change and increments in the count for that x bill (currency note) variable until the amount is greater than x
+		Repeat the above step for the next bill (currency note) until the amount is greater than 0
+  
+6. Print the bills and coins
+		Use the output function of the language to print the bills and coins to the user
