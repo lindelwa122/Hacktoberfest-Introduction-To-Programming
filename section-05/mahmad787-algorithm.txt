@@ -1,0 +1,6 @@
+1. Create two variables that will store the amount given and the amount charged
+2. Prompt the user for both of these amounts
+3. Validate the user input
+4. Calculate the change amount that you need to give back to the user
+5. Run your functions that will determine how many bills and coins to give to the user
+6. Print the number of bills and coins
