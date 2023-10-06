@@ -1,0 +1,1 @@
+Write a program to finds the prime factors [number only divided by itself] of a positive number
