@@ -1,0 +1,16 @@
+Write a program that separates characters in a string based on their index positions, classifying them as belonging to either even or odd indices.
+
+Input:
+A string of characters.
+
+Example:
+Input: "Hello, World!"
+Interpretation: The input is a valid string with characters.
+
+Output:
+A string containing characters at even indices.
+A string containing characters at odd indices.
+The output must show the classification of characters based on their index positions.
+
+Constraints:
+The input must be a non-empty string.
