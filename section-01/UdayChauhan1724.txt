@@ -1,0 +1,1 @@
+Write a program to determine the prime factors of a number and create a list such that product of all digits in the list equal the number itself.
