@@ -38,3 +38,8 @@
 - Place: Bangkok, Thailand
 - Bio: Java Developer
 - 
+
+#### [Uday Chauhan](https://github.com/Udaychauhan1724)
+- Place: Agra, Uttar Pradesh, India
+- Bio: Python / Java Developer | open source fresher | CS50 student | ML and GenAI enthusiast
+- LinkedIn: [Uday Chauhan](www.linkedin.com/in/uday-chauhan-160237292)
