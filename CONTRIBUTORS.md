@@ -43,3 +43,8 @@
 - Place: Agra, Uttar Pradesh, India
 - Bio: Python / Java Developer | open source fresher | CS50 student | ML and GenAI enthusiast
 - LinkedIn: [Uday Chauhan](www.linkedin.com/in/uday-chauhan-160237292)
+
+  #### [Yaseerah Kader](https://github.com/Yaseerahk)
+- Place: Johannesburg,South Africa
+- Bio: Frontend & Backend developer,Data anaytics
+- LinkedIn: [Yaseerah Kader](https://www.linkedin.com/in/yaseerah-kader-ab509528a/)
