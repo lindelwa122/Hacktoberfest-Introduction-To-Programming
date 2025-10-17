@@ -49,6 +49,10 @@
 - Bio: Frontend & Backend developer,Data anaytics
 - LinkedIn: [Yaseerah Kader](https://www.linkedin.com/in/yaseerah-kader-ab509528a/)
 
+#### [Elvis Chege Ndungu](https://github.com/elviscgn)
+- Place: Johannesburg, South Africa
+- Bio: Backend developer, WeThinkCode Student
+
 #### [Hazeldin Sibhuku](https://github.com/let-Hazel)
 - Place: Johannesburg, Gauteng, South Africa
 - Bio: Professional Problem Solver
