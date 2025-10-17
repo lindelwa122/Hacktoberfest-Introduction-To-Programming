@@ -57,3 +57,8 @@
 - Place: Johannesburg, Gauteng, South Africa
 - Bio: Professional Problem Solver
 - LinkedIn: [Hazeldin Sibhuku](https://www.linkedin.com/in/hazeldin-sibhuku-3364a3248/)
+
+#### [Thandolwethu Joni](https://github.com/Jonii23)
+- Place: Cape Town, South Africa
+- Bio: Full stack developer & IT Technician
+- LinkedIn: [Thandolwethu Joni](https://www.linkedin.com/in/olwethujoni)
