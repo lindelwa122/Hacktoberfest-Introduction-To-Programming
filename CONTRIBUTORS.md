@@ -48,3 +48,8 @@
 - Place: Johannesburg,South Africa
 - Bio: Frontend & Backend developer,Data anaytics
 - LinkedIn: [Yaseerah Kader](https://www.linkedin.com/in/yaseerah-kader-ab509528a/)
+
+- #### [Hazel Sibhuku]([GitHub Link](https://github.com/let-Hazel))
+- Place: Johannesburg, Gauteng, South Africa
+- Bio: Professional Problem Solver
+- LinkedIn: [Hazeldin Sibhuku]([Twitter Link](https://www.linkedin.com/in/hazeldin-sibhuku-3364a3248/))
