@@ -1,0 +1,7 @@
+write a program that outputs a list of prime numbers that make up a given number.
+
+Example:
+input: 
+  >> 36
+output:
+  >> [2, 2, 3, 3]
