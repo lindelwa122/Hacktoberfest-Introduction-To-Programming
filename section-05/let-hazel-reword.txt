@@ -1,1 +1,1 @@
-
+write a program that outputs a list of prime numbers that make up a given number.
