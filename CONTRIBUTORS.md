@@ -57,16 +57,7 @@
 
 - LinkedIn: [Yaseerah Kader](https://www.linkedin.com/in/yaseerah-kader-ab509528a/)
 
-#### [Elvis Chege Ndungu](https://github.com/elviscgn)
-- Place: Johannesburg, South Africa
-- Bio: Backend developer, WeThinkCode Student
-
-#### [Hazeldin Sibhuku](https://github.com/let-Hazel)
+- #### [Hazel Sibhuku]([GitHub Link](https://github.com/let-Hazel))
 - Place: Johannesburg, Gauteng, South Africa
 - Bio: Professional Problem Solver
-- LinkedIn: [Hazeldin Sibhuku](https://www.linkedin.com/in/hazeldin-sibhuku-3364a3248/)
-
-#### [Thandolwethu Joni](https://github.com/Jonii23)
-- Place: Cape Town, South Africa
-- Bio: Full stack developer & IT Technician
-- LinkedIn: [Thandolwethu Joni](https://www.linkedin.com/in/olwethujoni)
+- LinkedIn: [Hazeldin Sibhuku]([Twitter Link](https://www.linkedin.com/in/hazeldin-sibhuku-3364a3248/))

@@ -1,0 +1,3 @@
+>> Create folders for different extensions
+>> Group similar/same extensions together in a list
+>> Add list of files to folders

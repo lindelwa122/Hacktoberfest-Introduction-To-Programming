@@ -1,0 +1,13 @@
+>> import glob
+>> open the folder (use with open)
+>> create a list of all the files as strings
+>> create different lists for each file extension
+>> loop through the primary list
+>> if file extension endswith(.txt)
+>> append it to the txt file
+>> elif file extension endswith(.py)
+>> append it to the py file
+>> elif ..... until all our files have been grouped
+>> else append the last extension into an appropriate list
+>> open the sub folders
+>> append the lists of organised file extensions into their sub folsers.
