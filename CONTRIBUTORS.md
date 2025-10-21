@@ -47,6 +47,14 @@
   #### [Yaseerah Kader](https://github.com/Yaseerahk)
 - Place: Johannesburg,South Africa
 - Bio: Frontend & Backend developer,Data anaytics
+
+###(Madishego Kubiana)(https://github.com/madishego)
+- Place: Johannesburg, South Africa
+- Bio: Student at WeThinkCode
+
+
+
+
 - LinkedIn: [Yaseerah Kader](https://www.linkedin.com/in/yaseerah-kader-ab509528a/)
 
 - #### [Hazel Sibhuku]([GitHub Link](https://github.com/let-Hazel))

@@ -1,0 +1,14 @@
+writing a program that reads a textfile and counts the frequency of each word in the file 
+the program shuld then output the top N words and their frequencies, where N is the number 
+inputted by user
+
+input:
+user inputs a number
+
+solving:
+-the program accesses the textfile and reads into into
+- using a counter function, the program finds words that occur in the N frequency and stores them in the list
+-after reading the whole textfile the program will show the top occuring word with its frequency
+
+output:
+- top word with the N frequency 

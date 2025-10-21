@@ -1,0 +1,17 @@
+writing a program that checks for job clashes and priorities jobs with higher weight and once the 
+prior job is completed the next one will be open.
+input from user:
+-job number
+-job weight
+-start time 
+-end time
+
+solving:
+compare job numbers if the number is the first job
+check for the start time and end times
+compare end time of first job to the start time of the next job
+allocate job to the user if there are no time clashes and the first job is completed.
+
+output:
+-if clashes-"Finish the first job"
+-if no clashes-"Next job allocated and start time is {start time}
