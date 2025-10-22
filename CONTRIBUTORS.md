@@ -61,3 +61,8 @@
 - Place: Johannesburg, Gauteng, South Africa
 - Bio: Professional Problem Solver
 - LinkedIn: [Hazeldin Sibhuku]([Twitter Link](https://www.linkedin.com/in/hazeldin-sibhuku-3364a3248/))
+
+- ### [Vakele Godongwana](https://github.com/Vakele-G)
+- Place: Johannesburg, Gauteng, South Africa
+- Bio: Software developer student
+- LinkedIn: [Vakele G](https://www.linkedin.com/in/vakele-g-966b52273/)
