@@ -1,0 +1,13 @@
+
+Problem:
+
+Write a program that can output the prime factors of a given positive number.
+
+For example:
+
+Input: 36
+
+Output: [2, 2, 3, 3]
+
+The program should display the prime factors of the input integer as a list,
+showcasing that it's fundamental building blocks and unique composition.
