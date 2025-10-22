@@ -1,0 +1,20 @@
+#Sub-task 1: Choose what to grow
+
+# ask user for plants they want to grow
+
+crops: str = ""
+crops = input("What are the vegetables and/or herbs you'd like to grow?(seperate by comma): ")
+
+# convert plants to a list
+
+crops = crops.split(",")
+print(f"You have chosen {crops}")
+answer = input("Is this correct?(y/n): ").lower()
+
+while answer != "y":
+  crops = input("What are the vegetables and/or herbs you'd like to grow?(seperate by comma): ")
+  crops = crops.split(",")
+  print(f"You have chosen {crops}")
+  answer = input("Is this correct?(y/n): ").lower()
+
+print("Great. Let's get started")
