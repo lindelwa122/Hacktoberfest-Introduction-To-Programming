@@ -47,17 +47,18 @@
   #### [Yaseerah Kader](https://github.com/Yaseerahk)
 - Place: Johannesburg,South Africa
 - Bio: Frontend & Backend developer,Data anaytics
+- LinkedIn: [Yaseerah Kader](https://www.linkedin.com/in/yaseerah-kader-ab509528a/)
 
 ###(Madishego Kubiana)(https://github.com/madishego)
 - Place: Johannesburg, South Africa
 - Bio: Student at WeThinkCode
 
+#### [Lavanya van Wyk](https://github.com/lavanya-vanwyk)
+- Place: Johannesburg, Gauteng, South Africa
+- Bio: Front-end dev, back-end dev in training. I'm a fan of game development.
+- Itch.io: [chromatic crow](https://chromatic-crow.itch.io/)
 
-
-
-- LinkedIn: [Yaseerah Kader](https://www.linkedin.com/in/yaseerah-kader-ab509528a/)
-
-- #### [Hazel Sibhuku]([GitHub Link](https://github.com/let-Hazel))
+#### [Hazel Sibhuku]([GitHub Link](https://github.com/let-Hazel))
 - Place: Johannesburg, Gauteng, South Africa
 - Bio: Professional Problem Solver
 - LinkedIn: [Hazeldin Sibhuku]([Twitter Link](https://www.linkedin.com/in/hazeldin-sibhuku-3364a3248/))
