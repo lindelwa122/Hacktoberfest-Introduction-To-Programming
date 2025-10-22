@@ -1,0 +1,6 @@
+-> Ask the user to enter a positive integer n.
+-> Validate that n is greater than 0.
+-> Create a variable to store the total sum, starting at 0.
+-> Use a loop to go through all numbers from 1 to n-1.
+-> For each number, calculate its square and add it to the total sum.
+-> After the loop, display the total sum to the user.
