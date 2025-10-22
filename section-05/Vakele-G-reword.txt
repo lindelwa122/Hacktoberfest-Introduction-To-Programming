@@ -1,0 +1,4 @@
+- Write a program takes 2 numbers as input, an amount due to be paid and the actual amount paid.
+- It should then return the change in the correct number of bills and coins
+- The bill and coin denominations should be based on any current or former government monetary system
+- Try to design the program so that it returns as few bills and coins as possible
