@@ -1,0 +1,13 @@
+Create a variable that will store the path of the folder given by the user.
+
+Ask the user for the path of the folder they want to organize.
+
+Get a list of all files inside that folder.
+
+For each file, get its extension.
+
+Create a subfolder based on the file’s extension if it doesn’t already exist.
+
+Move the file into its corresponding subfolder.
+
+Display a message saying “All files have been organized successfully.”
