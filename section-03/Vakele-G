@@ -1,0 +1,20 @@
+Sub-task 1: Choose what to grow
+
+# ask user for plants they want to grow
+crops: str = input("What are the vegetables and/or herbs you'd like to grow?(seperate by comma): ")
+
+# convert plants to a list
+crops = crops.split(",")
+
+print(f"You have chosen {crops}")
+answer = input("Is this correct?(y/n): ").lower()
+
+while answer != "y":
+  crops = input("What are the vegetables and/or herbs you'd like to grow?(seperate by comma): ")
+  crops = plants.split(",")
+  print(f"You have chosen {crops}")
+  answer = input("Is this correct?(y/n): ").lower()
+
+# plant_in_garden() is a function at will plant a crop in an available spot in the garden
+for crop in crops:
+  crop.plant_in_garden()
