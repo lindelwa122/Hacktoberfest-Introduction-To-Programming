@@ -1,0 +1,15 @@
+APPROACH:
+
+- Write code that takes a file and reads its extension, done for all files in the folder
+
+
+FIRST SUB-PROBLEM:
+
+1. Code should be able to read the names of files in the target directory
+  * If a file somehow does not have an extension, the code should account for this as well
+  * The code should also store the number of files that don't have an extension 
+    ** Possibly by incrementing a count
+3. The code should store a set of all the extensions as strings
+  * A set ensures no duplicates
+  * This is preparation for solving problem 2: For each item in the set, a folder will be created with the item's value (string)
+
