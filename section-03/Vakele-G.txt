@@ -1,0 +1,7 @@
+Sub-task 1: Choose what to grow
+
+- Ask user what crops they want to grow and store them in a list
+- Print the list and ask if the crops are correct
+- While the user answers no, repeat instructions 1 and 2
+- If the user is satisfied with their crops, print a message to say "Let's get started."
+# ask user for plants they want to grow

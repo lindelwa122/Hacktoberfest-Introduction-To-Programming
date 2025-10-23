@@ -1,0 +1,8 @@
+1. Create a function that takes 2 arguments, amount due and amount paid
+2. In the function, create a list of bill and coin denominations in descending order
+3. Create a variable to store the change owed, which is the amount paid minus the amount due
+4. Create an empty dictionary to store the change owed in the correct denominations
+4. Loop through the list of denominations
+5. For each iteration, if the change owed is greater than or equal to the current denomination, while that condition is true, 
+add that denomination to the dictionary as a key with a value of 1 that increments each time the loop runs and subtract that denomination from the change owed
+6. Return the dictionary

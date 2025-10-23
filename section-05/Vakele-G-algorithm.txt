@@ -1,0 +1,6 @@
+Algorithm for change calculator fuction:
+
+
+for note in denominations, if change owed >= note:
+  while that condition is true:
+    count += 1, dictionary[note] = count, and change -= note
