@@ -67,3 +67,8 @@
 - Place: Johannesburg, Gauteng, South Africa
 - Bio: Software developer student
 - LinkedIn: [Vakele G](https://www.linkedin.com/in/vakele-g-966b52273/)
+
+#### [Kimmicorn-glitch](https://github.com/Kimmicorn-glitch)
+- Place: Johannesburg,Gauteng, South Africa
+- Bio: Software engineering student focused on Python and open-source collaboration
+- LinkedIn: [Kimberley Bezuidenhout](https://za.linkedin.com/in/kimberley-bezuidenhout-b134a1243)
