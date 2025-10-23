@@ -1,1 +1,1 @@
-Create a program that finds all the prime numbers that multiply together to make the original number.
+Create a program that finds all the prime numbers that multiply together to make the original number
