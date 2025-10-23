@@ -1,0 +1,33 @@
+Understand the Goal:
+The main purpose is to sort files into folders depending on their what the extensions might be .
+
+Prompt the User for Input:
+->Ask the user to provide the folder path that contains the files to organize.
+
+->Make sure to validate that the folder exists before continuing
+
+->Get a List of Files:
+  Retrieve all items in the folder using a method like os.listdir() (in Python).
+
+->Filter out directories files only.
+
+->Identify Each File’s Extension:
+  For each file, extract the extension (e.g., using os.path.splitext()).
+
+->Handle special cases where files have no extension.
+  Create Subfolders for Each Extension
+
+->For each unique file extension, check if a folder with that extension name exists.
+  If it doesn’t exist, create one (e.g., “Images”, “Documents”, or just “.jpg_files”).
+
+->Move Files to the Correct Folder:
+  Move each file into its corresponding subfolder using a file-moving function (like shutil.move() in Python).
+
+->Handle potential errors such as permission issues or duplicate files.
+
+->Display a Summary Report:
+  After organizing, show the user a summary of what happened:
+  How many files were moved?
+  Which folders were created?
+  If any files couldn’t be moved?
+
