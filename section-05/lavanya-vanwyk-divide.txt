@@ -1,0 +1,5 @@
+APPROACH:
+
+- Get a number by prompting the user
+- Minus 1 from the number and square it, adding the square to a list
+- Keep decrementing the number until its zero, and all squares have been returned
