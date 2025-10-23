@@ -1,0 +1,21 @@
+Problem (technical): Create a script that organizes files in a specified folder by sorting them into subfolders based on their file extensions. 
+Divide your approach into small doable steps.
+
+APPROACH:
+
+- Write code that takes a file and reads its extension, done for all files in the folder
+- Write code that adds all the unique extensions to a list (ie. no duplicates)
+- Write code that creates empty folders from the list unique extensions
+- Write code that moves the files to their respective folders
+
+Example structure:
+
+function check_files(files):
+-> read file name
+-> if file name not in a list of unique extensions, add it and move on
+
+function create_folders(extension list):
+-> for the unique extensions in the list, create a folder
+
+function organize_files():
+-> for all the subfolders in the directory, match file extension to the folder name
