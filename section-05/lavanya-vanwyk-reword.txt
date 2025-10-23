@@ -1,0 +1,1 @@
+Write a program that takes in a number n and returns a list of the squares of the numbers smaller than n.
