@@ -72,3 +72,8 @@
 - Place: Johannesburg,Gauteng, South Africa
 - Bio: Software engineering student focused on Python and open-source collaboration
 - LinkedIn: [Kimberley Bezuidenhout](https://za.linkedin.com/in/kimberley-bezuidenhout-b134a1243)
+
+#### [busisoms](https://github.com/busisoms)
+- Place: Johannesburg, Gauteng, South Africa
+- Bio: Software enginner | Problem solver | Student
+- Twitter: [Busiso_SE](https://x.com/busiso_SE)
