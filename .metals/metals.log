@@ -3434,3 +3434,196 @@ WARNING: Unmatched cancel notification for request id 1268
 2025.10.23 09:31:34 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (1 scala source and 2 java sources)
 2025.10.23 09:31:36 WARN  javac exited with exit code 1
 2025.10.23 09:31:36 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.03s
+2025.10.23 09:58:10 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:10 WARN  no build target for: /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala
+2025.10.23 09:58:10 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:10 WARN  Could not find semantic tokens for: file:///home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala
+2025.10.23 09:58:10 WARN  No build server connected
+2025.10.23 09:58:10 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:58:11 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:11 WARN  Could not find semantic tokens for: file:///home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala
+2025.10.23 09:58:12 WARN  javac exited with exit code 1
+2025.10.23 09:58:12 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.17s
+2025.10.23 09:58:12 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:58:13 WARN  javac exited with exit code 1
+2025.10.23 09:58:13 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.05s
+2025.10.23 09:58:14 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:14 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:14 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:14 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:14 WARN  Could not find semantic tokens for: file:///home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala
+2025.10.23 09:58:14 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:14 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:14 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 WARN  Could not find semantic tokens for: file:///home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala
+2025.10.23 09:58:14 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:14 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:14 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:14 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 WARN  Could not find semantic tokens for: file:///home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 WARN  Could not find semantic tokens for: file:///home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 WARN  Could not find semantic tokens for: file:///home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:16 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:15 INFO  no build target found for /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.10.23 09:58:17 WARN  no build target for: /home/wtc/Documents/Personal/Hacktoberfest-Introduction-To-Programming/section-05/lavanya-vanwyk.scala
+2025.10.23 09:58:21 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:58:21 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.12s
+2025.10.23 09:58:25 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:58:26 WARN  javac exited with exit code 1
+2025.10.23 09:58:26 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.1s
+2025.10.23 09:58:31 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:58:32 WARN  javac exited with exit code 1
+2025.10.23 09:58:32 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.1s
+2025.10.23 09:58:33 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:58:34 WARN  javac exited with exit code 1
+2025.10.23 09:58:34 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.1s
+2025.10.23 09:58:45 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:58:45 WARN  javac exited with exit code 1
+2025.10.23 09:58:45 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.95s
+2025.10.23 09:58:48 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:58:49 WARN  javac exited with exit code 1
+2025.10.23 09:58:49 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1s
+2025.10.23 09:58:51 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:58:52 WARN  javac exited with exit code 1
+2025.10.23 09:58:52 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.01s
+2025.10.23 09:58:53 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:58:55 WARN  javac exited with exit code 1
+2025.10.23 09:58:55 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.12s
+2025.10.23 09:58:58 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:58:58 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.1s
+2025.10.23 09:59:00 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:00 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 86ms
+2025.10.23 09:59:02 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:02 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 97ms
+Oct 23, 2025 9:59:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2072
+2025.10.23 09:59:04 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:04 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.13s
+2025.10.23 09:59:07 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:07 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 84ms
+2025.10.23 09:59:12 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:12 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 98ms
+2025.10.23 09:59:13 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:13 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 80ms
+2025.10.23 09:59:17 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:17 WARN  javac exited with exit code 1
+2025.10.23 09:59:17 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.96s
+2025.10.23 09:59:22 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:22 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 99ms
+2025.10.23 09:59:27 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:27 WARN  javac exited with exit code 1
+2025.10.23 09:59:27 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1s
+2025.10.23 09:59:30 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:30 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 87ms
+2025.10.23 09:59:32 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:32 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 74ms
+2025.10.23 09:59:36 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:36 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 93ms
+2025.10.23 09:59:43 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:43 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 89ms
+2025.10.23 09:59:45 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:45 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 97ms
+2025.10.23 09:59:49 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:49 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.4s
+2025.10.23 09:59:52 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:52 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.3s
+2025.10.23 09:59:56 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 09:59:57 WARN  javac exited with exit code 1
+2025.10.23 09:59:57 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.04s
+2025.10.23 10:00:07 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:09 WARN  javac exited with exit code 1
+2025.10.23 10:00:09 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.04s
+2025.10.23 10:00:15 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:15 WARN  javac exited with exit code 1
+2025.10.23 10:00:15 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.94s
+2025.10.23 10:00:20 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:21 WARN  javac exited with exit code 1
+2025.10.23 10:00:21 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.01s
+2025.10.23 10:00:26 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:27 WARN  javac exited with exit code 1
+2025.10.23 10:00:27 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.11s
+2025.10.23 10:00:28 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:28 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.14s
+2025.10.23 10:00:32 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:32 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 90ms
+Oct 23, 2025 10:00:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2799
+2025.10.23 10:00:38 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:38 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 89ms
+2025.10.23 10:00:41 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:41 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 80ms
+2025.10.23 10:00:48 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:48 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 81ms
+2025.10.23 10:00:50 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:50 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 85ms
+2025.10.23 10:00:53 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:53 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 72ms
+2025.10.23 10:00:57 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:00:57 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 88ms
+2025.10.23 10:01:00 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:01:00 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 78ms
+2025.10.23 10:01:03 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:01:03 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.24s
+2025.10.23 10:01:09 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:01:09 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.26s
+2025.10.23 10:05:25 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:05:25 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.51s
+2025.10.23 10:05:27 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:05:27 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.28s
+2025.10.23 10:05:28 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:05:28 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.12s
+2025.10.23 10:05:30 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:05:30 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.24s
+2025.10.23 10:05:33 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:05:33 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.13s
+2025.10.23 10:05:34 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:05:34 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.45s
+2025.10.23 10:05:37 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:05:37 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.12s
+2025.10.23 10:05:42 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:05:44 WARN  javac exited with exit code 1
+2025.10.23 10:05:44 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 2.13s
+2025.10.23 10:06:01 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:06:02 WARN  javac exited with exit code 1
+2025.10.23 10:06:02 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.3s
+2025.10.23 10:06:03 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:06:03 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 95ms
+2025.10.23 10:06:05 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:06:06 WARN  javac exited with exit code 1
+2025.10.23 10:06:06 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.07s
+2025.10.23 10:06:06 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:06:07 WARN  javac exited with exit code 1
+2025.10.23 10:06:07 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.04s
+2025.10.23 10:06:10 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:06:11 WARN  javac exited with exit code 1
+2025.10.23 10:06:11 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.17s
+2025.10.23 10:06:13 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:06:14 WARN  javac exited with exit code 1
+2025.10.23 10:06:14 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.02s
+2025.10.23 10:06:21 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:06:22 WARN  javac exited with exit code 1
+2025.10.23 10:06:22 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.34s
+2025.10.23 10:06:22 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:06:24 WARN  javac exited with exit code 1
+2025.10.23 10:06:24 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 0.96s
+2025.10.23 10:06:26 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:06:27 WARN  javac exited with exit code 1
+2025.10.23 10:06:27 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.01s
+2025.10.23 10:06:30 INFO  compiling hacktoberfest-introduction-to-programming_d5c0a6989e (2 scala sources and 2 java sources)
+2025.10.23 10:06:31 WARN  javac exited with exit code 1
+2025.10.23 10:06:31 INFO  time: compiled Hacktoberfest-Introduction-To-Programming_d5c0a6989e in 1.07s

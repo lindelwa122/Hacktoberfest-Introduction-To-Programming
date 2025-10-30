@@ -1,0 +1,8 @@
+BREAKDOWN:
+
+- Create squares object and main function definition
+- Declare a variable n equal to whatever user input is 
+- Create a variable sumSquares equal to range of 1 until n where each value is squared (using map)
+- Print the result (since scala obj implicitly returns, an explicit return not needed )
+
+
